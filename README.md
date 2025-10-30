@@ -7,14 +7,13 @@
 
 **Subject:** XHAW5112  
 
----
+
 
 ## Links  
 - **GitHub Repository:**   
 - **App demonstration Video:**
 - **Website demonstration Video:** 
 
----
 
 ## Project Overview  
 
@@ -63,7 +62,6 @@ The main purpose of *Empowering the Nation* is to create a digital space where u
 - Forms with enquiry submission.  
 - Responsive design that works across devices. 
 
----
 
 ##  Design Considerations  
 
@@ -80,7 +78,6 @@ The chosen color palette combines **green and brown tones**, inspired by nature.
 ### Images and Icons  
 - **Images:**  Everyday activities like sewing, gardening, and cooking to reflect community learning.    
 - **Icons**: Familiar shapes (home, book, etc) for intuitive navigation.
----
 
 ## App and Website Screenshots
 
@@ -88,7 +85,6 @@ The chosen color palette combines **green and brown tones**, inspired by nature.
 
 ### App Final Designs : 
 
----
 
 ##  GitHub and GitHub Actions  
 
@@ -109,12 +105,6 @@ The workflow saves the process of submitting the final APK/AAB files for submiss
 
 
 
-
----
-
-
-
----
 
 ##  References  
 
